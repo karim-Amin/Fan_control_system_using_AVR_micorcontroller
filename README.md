@@ -13,7 +13,7 @@ calculations in the programming for the microcontroller.<br />
 - Once the calculations are done by the microcontroller according to the logic, the 
 temperature is displayed on the LCD. <br />
 - The microcontroller will continuously monitor the temperature and based on the 
-temperature value, the microcontroller will drive the fan like that:
+temperature value, the microcontroller will drive the fan like that:<br/>
 a. If the temperature is less than 30C turn off the fan.<br />
 b. If the temperature is greater than or equal 30C turn on the fan with 25% of its 
 maximum speed.<br />
@@ -25,6 +25,6 @@ e. If the temperature is greater than or equal 120C turn on the fan with 100% of
 maximum speed.<br />
 - The main principle of the circuit is to switch on/off the fan connected to DC motor based 
 on temperature value. The DC-Motor rotates in clock-wise direction or stopped based on 
-the fan state.
+the fan state.<br />
 https://user-images.githubusercontent.com/73777263/137814805-f1db1926-00f3-4357-a11e-be74f24a40a5.mp4
 
