@@ -35,6 +35,13 @@ the fan state.<br />
 4) DC Motor
 5) Control chip which controls the motor L293D
 # Software archtechiture drivers 
+1) GPIO driver 
+2) ADC driver impelmented by callback and interrupt design 
+3) PWM driver
+4) LCD driver
+5) Temperature sensor driver
+6) DC-Motor driver 
+![layer](https://user-images.githubusercontent.com/73777263/137817860-9a776ec3-9b20-4303-b4b0-ff16dca3989c.PNG)
 
 
 
