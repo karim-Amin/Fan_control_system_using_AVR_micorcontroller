@@ -26,5 +26,11 @@ maximum speed.<br />
 - The main principle of the circuit is to switch on/off the fan connected to DC motor based 
 on temperature value. The DC-Motor rotates in clock-wise direction or stopped based on 
 the fan state.<br />
-https://user-images.githubusercontent.com/73777263/137814805-f1db1926-00f3-4357-a11e-be74f24a40a5.mp4
+# Hardware Components used in the application
+1) AVR16 Microcontroller
+2) LCD 2x16 LM016L
+3) analog temperiture sensor LM35
+4) DC Motor
+5) Control chip which controls the motor L293D
+
 
