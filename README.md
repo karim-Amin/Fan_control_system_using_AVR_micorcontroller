@@ -1,6 +1,7 @@
 # Fan_control_system_using_AVR_micorcontroller
 this project is implemented by software layered concept to abstract the microcontroller , hardware and application layers.
 by using analog temperature sensor we convert the temperature to corresponding voltage based on this reading we use PWM driver to control the speed of our motor
+
 # project description
 The aim of this project is to design a temperature-controlled fan using ATmega16<br />
 microcontroller, in which the fan is automatically turned ON or OFF according to the <br />
@@ -32,5 +33,7 @@ the fan state.<br />
 3) analog temperiture sensor LM35
 4) DC Motor
 5) Control chip which controls the motor L293D
+# Software drivers
+
 
 
