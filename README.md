@@ -2,7 +2,7 @@
 this project is implemented by software layered concept to abstract the microcontroller , hardware and application layers.
 by using analog temperature sensor we convert the temperature to corresponding voltage based on this reading we use PWM driver to control the speed of our motor
 # Video simulation
-Uploading simulation.mp4…
+https://user-images.githubusercontent.com/73777263/137817227-8896d618-06a1-45fb-bcac-b5997982257c.mp4
 # project description
 The aim of this project is to design a temperature-controlled fan using ATmega16<br />
 microcontroller, in which the fan is automatically turned ON or OFF according to the <br />
