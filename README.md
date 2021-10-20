@@ -1,9 +1,9 @@
 # Fan_control_system_using_AVR_micorcontroller
 this project is implemented by software layered concept to abstract the microcontroller , hardware and application layers.
 by using analog temperature sensor we convert the temperature to corresponding voltage based on this reading we use PWM driver to control the speed of our motor
-# Video simulation
+## Video simulation
 https://user-images.githubusercontent.com/73777263/137817227-8896d618-06a1-45fb-bcac-b5997982257c.mp4
-# project description
+## project description
 The aim of this project is to design a temperature-controlled fan using ATmega16<br />
 microcontroller, in which the fan is automatically turned ON or OFF according to the <br />
 temperature. Use ATmega16 Microcontroller with frequency 1Mhz.<br />
@@ -28,13 +28,13 @@ maximum speed.<br />
 - The main principle of the circuit is to switch on/off the fan connected to DC motor based 
 on temperature value. The DC-Motor rotates in clock-wise direction or stopped based on 
 the fan state.<br />
-# Hardware Components used in the application
+## Hardware Components used in the application
 1) AVR16 Microcontroller
 2) LCD 2x16 LM016L
 3) analog temperiture sensor LM35
 4) DC Motor
 5) Control chip which controls the motor L293D
-# Software archtechiture drivers 
+## Software archtechiture drivers 
 1) GPIO driver 
 2) ADC driver impelmented by callback and interrupt design 
 3) PWM driver
